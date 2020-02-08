@@ -14,3 +14,8 @@ LABEL Kaspersky Rescue Disk 18
         KERNEL disks/krd/boot/grub/k-x86_64
         APPEND initrd=http://192.168.10.153:888/krd/boot/grub/initrd.xz netboot=nfs://192.168.10.153:/Public/tftp/disks/krd rw net.ifnames=0 lang=en dostartx vga=791
 ```
+
+## Example for CRON
+```
+30 */3 * * * /share/Public/tftp/disks/krd/avbaseupdate.sh
+```
