@@ -17,5 +17,5 @@ LABEL Kaspersky Rescue Disk 18
 
 ## Example for CRON
 ```
-30 */3 * * * /share/Public/tftp/disks/krd/avbaseupdate.sh
+30 */3 * * * /share/Public/tftp/disks/krd/krduptate.sh
 ```
