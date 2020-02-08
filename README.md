@@ -5,7 +5,7 @@ This script update Kaspersky Rescue Disk databases for PXE boot.
 Edit the variable 'KRD=', putting the path to the directory where your unpacked KRD stored.
 Set up CRON to launch the script automatically.
 
-## Example fpr PXE config
+## Example for PXE config
 Unpack disk into the folder (krd, for example)
 I use http and nfs.
 ```
