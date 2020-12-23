@@ -1,5 +1,5 @@
 # AV bases update for Kaspersky Resque Disk 18
-This script update Kaspersky Rescue Disk databases for PXE boot.
+This script updates Kaspersky Rescue Disk Antivirus databases.
 
 ## Usage
 Edit the variable 'KRD=', putting the path to the directory where your unpacked KRD stored.
