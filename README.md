@@ -2,7 +2,7 @@
 This script updates Kaspersky Rescue Disk Antivirus databases.
 
 ## Usage
-Edit the variable 'KRD=', putting the path to the directory where your unpacked KRD stored.
+Edit the variable 'KRD=', putting here the path to the directory where your unpacked KRD is stored.
 Set up CRON to launch the script automatically.
 
 ## Example for PXE config
