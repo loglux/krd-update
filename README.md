@@ -19,7 +19,7 @@ LABEL Kaspersky Rescue Disk 18
 ```
 30 */3 * * * /share/Public/tftp/disks/krd/krduptate.sh
 ```
-## References
+## References (PXE settings examples from Kaspersky):
 https://support.kaspersky.com/15271
 
 https://support.kaspersky.ru/15271
