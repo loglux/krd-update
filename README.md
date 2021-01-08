@@ -21,4 +21,5 @@ LABEL Kaspersky Rescue Disk 18
 ```
 ## References
 https://support.kaspersky.com/15271
+
 https://support.kaspersky.ru/15271
